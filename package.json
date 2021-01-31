@@ -38,6 +38,6 @@
     "metro-react-native-babel-preset": "*"
   },
   "dependencies": {
-    "react-native-snap-carousel": "*"
+    "react-native-snap-carousel": "git+https://github.com/tagable/react-native-snap-carousel"
   }
 }
